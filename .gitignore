@@ -3,3 +3,4 @@
 /guestbook/k8s/deployment.yaml
 /guestbook/k8s/service.yaml
 /guestbook/k8s/services.yaml
+/guestbook/k8s/secret.yaml
